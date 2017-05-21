@@ -148,8 +148,12 @@
     <Content Include="style\images\.DS_Store" />
     <Content Include="style\images\art\.DS_Store" />
     <Content Include="style\images\art\1280px-Cleveland_from_the_flats.jpg" />
+    <Content Include="style\images\art\audreywardrobe.JPG" />
+    <Content Include="style\images\art\bankaccount.JPG" />
     <Content Include="style\images\art\cleveland-night.jpg" />
+    <Content Include="style\images\art\MVCReviews.JPG" />
     <Content Include="style\images\art\playhouse-square.jpg" />
+    <Content Include="style\images\art\Sizer.Ryan Headshot.jpg" />
     <Content Include="style\type\budicons\budicon.eot" />
     <Content Include="style\type\budicons\budicon.ttf" />
     <Content Include="style\type\budicons\budicon.woff" />
