@@ -72,6 +72,7 @@
     <Content Include="ajax\post2.html" />
     <Content Include="ajax\post3.html" />
     <Content Include="ajax\post4.html" />
+    <Content Include="ajax\post5.html" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
     <Content Include="bin\MyPortfolio.dll" />
@@ -151,9 +152,12 @@
     <Content Include="style\images\art\audreywardrobe.JPG" />
     <Content Include="style\images\art\bankaccount.JPG" />
     <Content Include="style\images\art\cleveland-night.jpg" />
+    <Content Include="style\images\art\fortuneteller.JPG" />
     <Content Include="style\images\art\MVCReviews.JPG" />
     <Content Include="style\images\art\playhouse-square.jpg" />
     <Content Include="style\images\art\Sizer.Ryan Headshot.jpg" />
+    <Content Include="style\images\art\virtualpet.JPG" />
+    <Content Include="style\images\art\wardrobediagram.JPG" />
     <Content Include="style\type\budicons\budicon.eot" />
     <Content Include="style\type\budicons\budicon.ttf" />
     <Content Include="style\type\budicons\budicon.woff" />
